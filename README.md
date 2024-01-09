@@ -1,1 +1,9 @@
 # NK-migrant-business-support
+
+Replication material for "Public Support for Migrant Entrepreneurship: The Case of North Koreans in the Republic of Korea."
+
+Source:
+>Denney, S., Ward, P., & Green, C. (2023). Public Support for Migrant Entrepreneurship: The Case of North Koreans in the Republic of Korea. International Migration Review. https://doi.org/10.1177/0197918323120392
+
+Abstract:
+>Migrant entrepreneurship is viewed as a pathway to substantive social integration, one that makes host countries more prosperous in the process. Accordingly, scholars have studied the social context in which migrant entrepreneurs operate, and considered at length the range of policy options that governments can use to support their activities. Conversely, the issue of public attitudes to policies that support migrant entrepreneurship has been largely neglected. Leveraging the case of North Korean migrant entrepreneurs in South Korea, this article fills this gap in the literature by examining how the structure of government support within a broader “policy mix” for migrant entrepreneurship policies acts on public attitudes. Overall, it finds South Koreans are most supportive of migrant entrepreneurship policies endorsed and paid for by large companies through corporate taxation or loans to the individual, rather than the state, and which have a target goal of employment support for profitable migrant-run firms or joint ventures run by teams of natives and migrants. Notably, policies explicitly justified as tools to address discrimination actively discourage support. The specifics of the Korean case show that determinants of native hostility toward migrants apply to migrant entrepreneurship even when ethnic differences and many of the institutional barriers that apply in other cases do not exist, suggesting that ethnicity is not a major motivating factor; economic rationality and what is “good for South Korea” are.
